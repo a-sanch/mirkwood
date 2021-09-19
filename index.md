@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Mirkwood '21-'22
 
-You can use the [editor on GitHub](https://github.com/a-sanch/mirkwood/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey besties! This website will be for lit rally all the links and info I ever give you, so plz bookmark it :D
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ik I made a Facebook Group Page but I hate it LMAO so hopefully this website is better for organizing stuff!
 
-### Markdown
+### Upcoming Hall Events + UCI Dates
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Hall Dinner : Sunday, September 19th, 4pm <br/> **meet in common room at 3:50!** <br/> 
+> <br/> 
+> Mandatory Hall Meeting: Sunday, September 19th, 5pm - 6pm in Dome of Stars 2040 <br/> 
+> <br/> 
+> New Student Convocation: 9:15am - 10:15am, Crawford Athletics Field <br/> **meet in common room at 8:30am** <br/>
+> <br/>
+> First Day of Classes: Thrusday, September 23rd
+ 
 
-```markdown
-Syntax highlighted code block
+### Frequently Asked Questions
 
-# Hello World
-## Header 2
-### Header 3
+All the questions I get most frequebtly from y'all (and the ones other RAs get as well) are answered here!
 
-- Bulleted
-- List
+### Campus Organizations
 
-1. Numbered
-2. List
+### Important UCI Websites and Links
 
-**Bold** and _Italic_ and `Code` text
+### Past Mirkwood Weekly Newslwetter
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a-sanch/mirkwood/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
